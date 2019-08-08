@@ -48,4 +48,22 @@ int main()
        test++;
     }while(num != guess);
 }
-
+/*
+    OUTPUT :
+    Try to guess the number between 1 to 100 in 3 attempts
+Enter your guess
+80
+The number is between 1 and 49
+Enter your guess
+25
+The number is between 26 and 49
+Enter your guess
+35
+The number is between 26 and 36
+Enter your guess
+30
+The number is between 32 and 36
+Enter your guess
+34
+Hey Congrats you found the number in 4 time
+*/
